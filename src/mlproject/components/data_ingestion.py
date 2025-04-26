@@ -1,4 +1,6 @@
 import os
+from pathlib import Path
+
 import urllib.request as request
 import zipfile
 from src.mlproject import logger
